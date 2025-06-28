@@ -14,10 +14,12 @@ DURATION : 6 WEEKS
 MENTOR : NEELA SANTOSH
 
 
-**Overview:**
+#Overview:
+
 In this task, you will develop a basic Speech-to-Text system using existing pre-trained models and speech processing libraries. The goal is to convert spoken audio input into accurate textual representation, mimicking the kind of voice-to-text functionality used in virtual assistants like Siri, Alexa, and Google Assistant. This task is a fundamental application of Artificial Intelligence and falls under the domain of Automatic Speech Recognition (ASR), a critical subfield of AI with real-world implications.
 
-**Objective:**
+#Objective:
+
 Build a functional system that is capable of:
 
 Accepting a short audio file (e.g., WAV or MP3 format)
@@ -30,7 +32,7 @@ Outputting the transcription in a readable format (console, text file, or UI)
 
 The expected outcome is a working prototype of a speech-to-text converter that leverages modern libraries or APIs.
 
-**Technical Scope:**
+#Technical Scope:
 
 To accomplish this task, you can use the following tools/libraries:
 
@@ -46,7 +48,7 @@ Librosa – for advanced audio signal processing (optional)
 
 Additionally, you may explore open-source pretrained models available through HuggingFace or Google Cloud Speech-to-Text APIs for more robust performance.
 
-**Deliverables:**
+#Deliverables:
 
 A fully functional Python script or Jupyter Notebook
 
@@ -62,7 +64,7 @@ Screenshots or logs showing the input and output behavior
 
 Optionally, a simple user interface (CLI/GUI) is a bonus
 
-**Learning Outcomes:**
+#Learning Outcomes:
 
 By completing this task, you will gain practical experience in:
 
@@ -82,7 +84,7 @@ Thinking about the ethical and accessibility implications of voice-driven tech
 
 This task will enhance your confidence in using AI tools and set a solid foundation for more advanced applications like voice-controlled bots, intelligent assistants, and multilingual speech systems.
 
-**Use Case Examples:**
+#Use Case Examples:
 
 Transcribing lecture recordings or interviews
 
@@ -92,6 +94,6 @@ Captioning systems for media content
 
 Voice-to-text input methods for differently-abled users
 
-**output :**
+#output :
 
 ![Image](https://github.com/user-attachments/assets/69572f3d-7120-4e1d-985b-0055e0553331)
