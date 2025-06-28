@@ -1,3 +1,6 @@
+# Speech-Recognition-System
+
+
 COMPANY : CODETECH IT SOLUTIONS
 
 NAME : RAPAKA LOKESH
@@ -10,12 +13,11 @@ DURATION : 6 WEEKS
 
 MENTOR : NEELA SANTOSH
 
-**# Speech-Recognition-System**
 
-Overview:
+**Overview:**
 In this task, you will develop a basic Speech-to-Text system using existing pre-trained models and speech processing libraries. The goal is to convert spoken audio input into accurate textual representation, mimicking the kind of voice-to-text functionality used in virtual assistants like Siri, Alexa, and Google Assistant. This task is a fundamental application of Artificial Intelligence and falls under the domain of Automatic Speech Recognition (ASR), a critical subfield of AI with real-world implications.
 
-**#Objective:**
+**Objective:**
 Build a functional system that is capable of:
 
 Accepting a short audio file (e.g., WAV or MP3 format)
